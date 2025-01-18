@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.8659fa51.css",
-    "main.js": "/test/static/js/main.f6049363.js",
-    "static/js/453.258b012d.chunk.js": "/test/static/js/453.258b012d.chunk.js",
-    "static/media/nen2.jpg": "/test/static/media/nen2.9ee276afc0ba5de9f6eb.jpg",
-    "static/media/extreme1.png": "/test/static/media/extreme1.ecd1941635966c970fd0.png",
-    "static/media/extreme2.png": "/test/static/media/extreme2.7c38a821dc8765d6baef.png",
-    "static/media/extreme.png": "/test/static/media/extreme.08d61e6a266d4466be72.png",
-    "static/media/custom.png": "/test/static/media/custom.f784611ddc14313243da.png",
-    "static/media/scrum2.png": "/test/static/media/scrum2.71ac91972fd1bc4c511f.png",
-    "static/media/kanban1.png": "/test/static/media/kanban1.6308bc178884bca9e1f1.png",
-    "static/media/scrum1.svg": "/test/static/media/scrum1.6f40c8793244a8e33bfb895d2e119221.svg",
-    "static/media/slick.svg": "/test/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/test/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/test/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/test/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/test/index.html",
-    "main.8659fa51.css.map": "/test/static/css/main.8659fa51.css.map",
-    "main.f6049363.js.map": "/test/static/js/main.f6049363.js.map",
-    "453.258b012d.chunk.js.map": "/test/static/js/453.258b012d.chunk.js.map"
+    "main.css": "/page/Home/static/css/main.a0ba73ad.css",
+    "main.js": "/page/Home/static/js/main.d9a2e96d.js",
+    "static/js/453.258b012d.chunk.js": "/page/Home/static/js/453.258b012d.chunk.js",
+    "static/media/nen2.jpg": "/page/Home/static/media/nen2.9ee276afc0ba5de9f6eb.jpg",
+    "static/media/extreme1.png": "/page/Home/static/media/extreme1.ecd1941635966c970fd0.png",
+    "static/media/extreme2.png": "/page/Home/static/media/extreme2.7c38a821dc8765d6baef.png",
+    "static/media/extreme.png": "/page/Home/static/media/extreme.08d61e6a266d4466be72.png",
+    "static/media/custom.png": "/page/Home/static/media/custom.f784611ddc14313243da.png",
+    "static/media/scrum2.png": "/page/Home/static/media/scrum2.71ac91972fd1bc4c511f.png",
+    "static/media/kanban1.png": "/page/Home/static/media/kanban1.6308bc178884bca9e1f1.png",
+    "static/media/scrum1.svg": "/page/Home/static/media/scrum1.6f40c8793244a8e33bfb895d2e119221.svg",
+    "static/media/slick.svg": "/page/Home/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/page/Home/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/page/Home/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/page/Home/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/page/Home/index.html",
+    "main.a0ba73ad.css.map": "/page/Home/static/css/main.a0ba73ad.css.map",
+    "main.d9a2e96d.js.map": "/page/Home/static/js/main.d9a2e96d.js.map",
+    "453.258b012d.chunk.js.map": "/page/Home/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8659fa51.css",
-    "static/js/main.f6049363.js"
+    "static/css/main.a0ba73ad.css",
+    "static/js/main.d9a2e96d.js"
   ]
 }
