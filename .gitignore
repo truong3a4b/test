@@ -1,0 +1,9 @@
+server/node_modules
+client/node_modules
+
+# Hai
+# enviroment variable 
+server/.env
+client/.env
+# congfiguration
+server/config/config.json
